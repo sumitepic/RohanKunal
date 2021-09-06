@@ -22,6 +22,8 @@ public class constructor {
 	
 	//sumit
 	
+	//Kunal
+	
 	// same function in same class but different parameter is known as overloading
 	
 	public static void main(String[] args) {
