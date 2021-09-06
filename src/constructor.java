@@ -19,6 +19,9 @@ public class constructor {
 		System.out.println("Sumit");
 	}
 	
+	
+	//sumit
+	
 	// same function in same class but different parameter is known as overloading
 	
 	public static void main(String[] args) {
